@@ -123,7 +123,7 @@ qrcode:
 #        theme: # Available value in /source/css/prettify/[theme].min.css
 prettify:
     enable: true
-    theme: "tomorrow"
+    theme: "atelier-lakeside-light"
 
 #    Hanabi (https://github.com/egoist/hanabi)
 #        line_number: [true/false] # Show line number for code block
@@ -304,7 +304,7 @@ busuanzi:
     enable: true
     all_site_uv: true
     post_pv: true
-    busuanzi_pure_mini_js: "https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"
+    busuanzi_pure_mini_js: "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"
 
 # Files Vendors
 # Set a CDN for the files src you want to customize. The url should with protocol.
