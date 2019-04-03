@@ -185,7 +185,7 @@ sns_share:
 sidebar:
     dropdown:
         写信告诉我:
-            link: "mailto:tanzhenyugis@163.com"
+            link: "mailto:tanzhenyugis@outlook.com"
             icon: email
     homepage:
         use: true
